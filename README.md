@@ -47,7 +47,7 @@ Both versions use:
 The modified code adds sound effects, new visuals, and simplifies game logic.
 
 ## ✨ New Additions
-# Car Dodger – Modified Version README
+# Car Dodger – Modified Version
 
 The updated version introduces audio, visual improvements, and simplified game mechanics.
 
